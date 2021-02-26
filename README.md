@@ -1,26 +1,9 @@
-# CheckinBox
+# 借用CheckinBox大佬的脚本
 ### 自己用的一些脚本，不填数值默认不启用<br>
-- [天翼云盘每日签到一次，抽奖2次](https://github.com/mengshouer/CheckinBox/tree/master/Cloud189Checkin)
-
-- [最终幻想14积分商城签到](https://github.com/mengshouer/CheckinBox/tree/master/FF14Checkin)
 
 - [什么值得买网页每日签到](https://github.com/mengshouer/CheckinBox/tree/master/smzdmCheckin)
 
-- [52pojie每日签到](https://github.com/mengshouer/CheckinBox/tree/master/Checkin52pj)
-
 - [网易云音乐每日签到与刷歌单](https://github.com/mengshouer/CheckinBox/tree/master/NetEase_Music_daily)
-
-- [有道云笔记签到](https://github.com/mengshouer/CheckinBox/tree/master/NoteyoudaoCheckin)
-
-- [V2EX签到](https://github.com/mengshouer/CheckinBox/tree/master/V2EX)
-
-- [恩山论坛签到](https://github.com/mengshouer/CheckinBox/tree/master/Enshan)
-
-- [智友邦签到](https://github.com/mengshouer/CheckinBox/tree/master/Zhiyou)
-
-- [WPS小程序邀请](https://github.com/mengshouer/CheckinBox/tree/master/WPS)
-
-
 ### Github Actions版本<br>
 1.点击项目右上角的Fork，Fork此项目<br>
 2.到自己Fork的项目点击Actions，如果未启用，需要手动启用，然后启用需要运行的Workflows

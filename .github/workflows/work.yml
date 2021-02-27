@@ -21,21 +21,9 @@ jobs:
       - name: main
         env:
           SCKEY: ${{ secrets.SCKEY }}
-          username: ${{ secrets.username }}
-          password: ${{ secrets.password }}
-          fflogin_name: ${{ secrets.fflogin_name }}
-          fflogin_password: ${{ secrets.fflogin_password }}
-          area_name: ${{ secrets.area_name }}
-          server_name: ${{ secrets.server_name }}
-          role_name: ${{ secrets.role_name }}
-          cookie_52pj: ${{ secrets.cookie_52pj }}
           cookie_smzdm: ${{ secrets.cookie_smzdm }}
           netease_username: ${{ secrets.netease_username }}
           netease_password: ${{ secrets.netease_password }}
-          note_username: ${{ secrets.note_username }}
-          note_password: ${{ secrets.note_password }}
-          cookie_v2ex: ${{ secrets.cookie_v2ex }}
-          cookie_enshan: ${{ secrets.cookie_enshan }}
           cookie_zhiyou: ${{ secrets.cookie_zhiyou }}
           wps_userid: ${{ secrets.wps_userid }}
         run: |
